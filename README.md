@@ -1,2 +1,2 @@
-# Primeiro_projeto
+# Gamepy
  Primeiro game em python
